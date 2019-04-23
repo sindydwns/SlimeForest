@@ -1,61 +1,68 @@
-개인정보처리방침
+Privacy Policy
+=============
+Citrine built the com.sindydwns.slimeforest app as a Free app. This SERVICE is provided by Citrine at no cost and is intended for use as is.
 
-"슬라임 숲을 지켜라"(이하 '당사'라고 칭함)의 게임 앱에 관련한 개인정보보호법에 따라 이용자들은 개인정보 보 호 및 권익을 보호하고자 당므과 같은 처리방침을 두고 있습니다.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-당사는 개인정보처리방침을 개정하는 경우 본 공지사항을 통하여 공지할 것입니다.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at com.sindydwns.slimeforest unless otherwise defined in this Privacy Policy.
 
-1. 개인정보 처리 목적
+Information Collection and Use
+-------------
 
-가. 구글 플레이 서비스의 업적, 랭킹등의 서비스를 이용하기 위하여 각 스토어 게임센터의 기능을 이용합니다.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Ad ID. The information that I request will be retained on your device and is not collected by me in any way.
 
-나. 구글 애드몹, 유니티 애즈 등의 리워드 혹은 배너 광고등의 서비스 기능을 이용하며, 안드로이드 광고 ID를 해당 용도로 사용하고 있습니다.
+The app does use third party services that may collect information used to identify you.
 
+Link to privacy policy of third party service providers used by the app
 
-2. 개인정보 파일 현황
+Google Play Services
 
-당사는 별도의 개인정보 파일을 사용하지 않으며 저장 또한 하지 않습니다.
+Log Data
+-------------
 
-당사는 쿠키를 저장하지 않으며 이용하지 않습니다.
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-단, 게임내 구매, 업적등의 스토어 서비스가 이용하는 정보는 해당 서비스의 SDK를 거쳐 이용하게 됩니다. 이는 당사에 저장되는 정보가 아닙니다. 이용자가 이에 대해 의문이 있다면 해당 서비스(구글 및 각 광고 미디어)로 직접 연락해야 합니다.
+Cookies
+-------------
 
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-3. 개인정보의 처리 및 보유기간
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-당사는 개인정보를 직접적으로 저장하거나 보유하지 않습니다.
+Service Providers
+-------------
 
-당사의 게임은 모두 해당 미디어서비스(구글, 애플, 광고미디어 및 SNS서비스)의 SDK를 통해 간접적으로 이용합니다.
+I may employ third-party companies and individuals due to the following reasons:
 
-따라서 당사는 이용자의 개인정보 처리하는 내용도 보유기간도 없습니다.
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
+Security
+-------------
 
-4. 개인정보의 제3자 제공에 관한 사항
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-광고 미디어에서 IP 주소 및 기기 식별자와 같은 기기 정보와 광고 게재 및 광고와 관련된 상호 작용에 대한 정보를 수집했을 가능성이 있으며 이 모든 정보는 광고 게시자 및 기여 회사와 공유 될 수 있습니다.
+Links to Other Sites
+-------------
 
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-5. 개인정보처리 위탁
+Children’s Privacy
+-------------
 
-당사는 개인정보를 위탁하고 있지 않습니다.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
+Changes to This Privacy Policy
+-------------
 
-6. 정보주의 권리, 의무 및 그 행사방법
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
-이용자는 개인정보주체로서 권리 행사할 수 있습니다.
+Contact Us
+-------------
 
-가) 개인정보 열람요구
-
-나) 개인정보 오류에 대한 정정 요구
-
-다) 삭제 요구
-
-라) 처리 정지 요구
-
-당사는 개인정보를 저장하거나 위탁하지 않습니다.
-
-
-7. 개인정보의 파기
-
-본 서비스 및 게임 이용자는 각 서비스 제공자 (구글 및 각 광고 미디어)에 직접 연락하여 모든 데이터를 파기할 수 있습니다.
-
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at indigofera02@gmail.com.
